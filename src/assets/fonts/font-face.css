@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'RedHatFont';
+  src: url('./redhat/RedHatDisplay-Regular.eot');
+  src: url('./redhat/RedHatDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+      url('./redhat/RedHatDisplay-Regular.woff2') format('woff2'),
+      url('./redhat/RedHatDisplay-Regular.woff') format('woff'),
+      url('./redhat/RedHatDisplay-Regular.ttf') format('truetype'),
+      url('./redhat/RedHatDisplay-Regular.svg#RedHatDisplay-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RedHatFontMedium';
+  src: url('./redhat/RedHatDisplay-Medium.eot');
+  src: url('./redhat/RedHatDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+      url('./redhat/RedHatDisplay-Medium.woff2') format('woff2'),
+      url('./redhat/RedHatDisplay-Medium.woff') format('woff'),
+      url('./redhat/RedHatDisplay-Medium.ttf') format('truetype'),
+      url('./redhat/RedHatDisplay-Medium.svg#RedHatDisplay-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RedHatFontBold';
+  src: url('./redhat/RedHatDisplay-Bold.eot');
+  src: url('./redhat/RedHatDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+      url('./redhat/RedHatDisplay-Bold.woff2') format('woff2'),
+      url('./redhat/RedHatDisplay-Bold.woff') format('woff'),
+      url('./redhat/RedHatDisplay-Bold.ttf') format('truetype'),
+      url('./redhat/RedHatDisplay-Bold.svg#RedHatDisplay-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RedHatFontBlack';
+  src: url('./redhat/RedHatDisplay-Black.eot');
+  src: url('./redhat/RedHatDisplay-Black.eot?#iefix') format('embedded-opentype'),
+      url('./redhat/RedHatDisplay-Black.woff2') format('woff2'),
+      url('./redhat/RedHatDisplay-Black.woff') format('woff'),
+      url('./redhat/RedHatDisplay-Black.ttf') format('truetype'),
+      url('./redhat/RedHatDisplay-Black.svg#RedHatDisplay-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

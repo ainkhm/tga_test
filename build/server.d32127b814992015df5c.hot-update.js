@@ -1,0 +1,16 @@
+exports.id = "server";
+exports.modules = {
+
+/***/ "./src/reducers/domain.js":
+/*!********************************!*\
+  !*** ./src/reducers/domain.js ***!
+  \********************************/
+/*! exports provided: DomainList, DomainAll */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: /Users/ainkhm/Desktop/tga-app/src/reducers/domain.js: Const declarations require an initialization value (3:34)\n\n\u001b[0m \u001b[90m 1 |\u001b[39m \u001b[36mimport\u001b[39m \u001b[33m*\u001b[39m \u001b[36mas\u001b[39m \u001b[33mC\u001b[39m \u001b[36mfrom\u001b[39m \u001b[32m'../types'\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 2 |\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 3 |\u001b[39m \u001b[36mconst\u001b[39m initialState \u001b[33m=\u001b[39m []\u001b[33m,\u001b[39misFetching\u001b[33m:\u001b[39m \u001b[36mtrue\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m   |\u001b[39m                                   \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 4 |\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 5 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m \u001b[33mDomainList\u001b[39m \u001b[33m=\u001b[39m (state \u001b[33m=\u001b[39m { isFetching\u001b[33m:\u001b[39m \u001b[36mtrue\u001b[39m }\u001b[33m,\u001b[39m action) \u001b[33m=>\u001b[39m {\u001b[0m\n\u001b[0m \u001b[90m 6 |\u001b[39m \t\u001b[36mswitch\u001b[39m (action\u001b[33m.\u001b[39mtype) {\u001b[0m\n    at Object._raise (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:776:17)\n    at Object.raiseWithData (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:769:17)\n    at Object.raise (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:737:17)\n    at Object.parseVar (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:12443:18)\n    at Object.parseVarStatement (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:12251:10)\n    at Object.parseStatementContent (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:11843:21)\n    at Object.parseStatement (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:11776:17)\n    at Object.parseBlockOrModuleBlockBody (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:12358:25)\n    at Object.parseBlockBody (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:12349:10)\n    at Object.parseTopLevel (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:11707:10)\n    at Object.parse (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:13513:10)\n    at parse (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:13566:38)\n    at parser (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/core/lib/parser/index.js:54:34)\n    at parser.next (<anonymous>)\n    at normalizeFile (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/core/lib/transformation/normalize-file.js:99:38)\n    at normalizeFile.next (<anonymous>)");
+
+/***/ })
+
+};
+//# sourceMappingURL=server.d32127b814992015df5c.hot-update.js.map

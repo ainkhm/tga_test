@@ -1,0 +1,16 @@
+exports.id = "server";
+exports.modules = {
+
+/***/ "./src/pages/team/index.js":
+/*!*********************************!*\
+  !*** ./src/pages/team/index.js ***!
+  \*********************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: /Users/ainkhm/Desktop/tga-app/src/pages/team/index.js: Unexpected keyword 'return' (24:2)\n\n\u001b[0m \u001b[90m 22 |\u001b[39m \tpayload\u001b[33m.\u001b[39mreduce((result\u001b[33m,\u001b[39m item) \u001b[33m=>\u001b[39m item\u001b[33m.\u001b[39mslug \u001b[33m!==\u001b[39m \u001b[32m'paul_chudleigh'\u001b[39m \u001b[33m||\u001b[39m \u001b[32m'michael_sastry'\u001b[39m \u001b[33m&&\u001b[39m {\u001b[0m\n\u001b[0m \u001b[90m 23 |\u001b[39m \t\t\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 24 |\u001b[39m \t\t\u001b[36mreturn\u001b[39m {\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m \t\t\u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 25 |\u001b[39m \t\t\t\t\u001b[33m...\u001b[39mresult\u001b[33m,\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 26 |\u001b[39m \t\t\t\t[item\u001b[33m.\u001b[39mname]\u001b[33m:\u001b[39m item\u001b[33m.\u001b[39mvalue\u001b[0m\n\u001b[0m \u001b[90m 27 |\u001b[39m \t\t}\u001b[33m;\u001b[39m\u001b[0m\n    at Object._raise (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:776:17)\n    at Object.raiseWithData (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:769:17)\n    at Object.raise (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:737:17)\n    at Object.checkReservedWord (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:11479:12)\n    at Object.parseObjectProperty (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:11195:12)\n    at Object.parseObjPropValue (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:11215:100)\n    at Object.parsePropertyDefinition (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:11139:10)\n    at Object.parseObjectLike (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:11029:25)\n    at Object.parseExprAtom (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:10589:23)\n    at Object.parseExprAtom (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:4795:20)\n    at Object.parseExprSubscripts (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:10248:23)\n    at Object.parseUpdate (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:10228:21)\n    at Object.parseMaybeUnary (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:10206:23)\n    at Object.parseExprOpBaseRightExpr (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:10162:34)\n    at Object.parseExprOpRightExpr (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:10155:21)\n    at Object.parseExprOp (/Users/ainkhm/Desktop/tga-app/node_modules/@babel/parser/lib/index.js:10121:27)");
+
+/***/ })
+
+};
+//# sourceMappingURL=server.55d1cf6990cae2f305b8.hot-update.js.map
