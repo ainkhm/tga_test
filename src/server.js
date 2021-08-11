@@ -20,7 +20,7 @@ import configureStore from './store';
 jss.setup(
 	preset({
 		defaultUnit,
-	}),
+	})
 );
 
 const assets = require(process.env.RAZZLE_ASSETS_MANIFEST);
@@ -31,7 +31,7 @@ server
 	.use(express.static(process.env.RAZZLE_PUBLIC_DIR))
 	.get('/*', (req, res) => {
 		const context = {};
-		const store = configureStore({ test: 'sdfds' });
+		const store = configureStore({});
 
 		const markup = renderToString(
 			<ReduxProvider store={store}>
@@ -42,7 +42,7 @@ server
 						</ThemeProvider>
 					</JssProvider>
 				</StaticRouter>
-			</ReduxProvider>,
+			</ReduxProvider>
 		);
 
 		const sheets = new SheetsRegistry();
@@ -86,7 +86,7 @@ server
                     <body>
                         <div id="root"></div>
                     </body>
-                </html>`,
+                </html>`
 			);
 		}
 	});
